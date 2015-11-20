@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 6bdf75f8330a84dbbadad93402f50812
+timeCreated: 1447912601
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box129_pivot
+    100002: Box129_pivot_MeshPart0
+    100004: Box129_pivot_MeshPart1
+    100006: Box129_pivot_MeshPart10
+    100008: Box129_pivot_MeshPart11
+    100010: Box129_pivot_MeshPart12
+    100012: Box129_pivot_MeshPart13
+    100014: Box129_pivot_MeshPart14
+    100016: Box129_pivot_MeshPart15
+    100018: Box129_pivot_MeshPart2
+    100020: Box129_pivot_MeshPart3
+    100022: Box129_pivot_MeshPart4
+    100024: Box129_pivot_MeshPart5
+    100026: Box129_pivot_MeshPart6
+    100028: Box129_pivot_MeshPart7
+    100030: Box129_pivot_MeshPart8
+    100032: Box129_pivot_MeshPart9
+    100034: //RootNode
+    400000: Box129_pivot
+    400002: Box129_pivot_MeshPart0
+    400004: Box129_pivot_MeshPart1
+    400006: Box129_pivot_MeshPart10
+    400008: Box129_pivot_MeshPart11
+    400010: Box129_pivot_MeshPart12
+    400012: Box129_pivot_MeshPart13
+    400014: Box129_pivot_MeshPart14
+    400016: Box129_pivot_MeshPart15
+    400018: Box129_pivot_MeshPart2
+    400020: Box129_pivot_MeshPart3
+    400022: Box129_pivot_MeshPart4
+    400024: Box129_pivot_MeshPart5
+    400026: Box129_pivot_MeshPart6
+    400028: Box129_pivot_MeshPart7
+    400030: Box129_pivot_MeshPart8
+    400032: Box129_pivot_MeshPart9
+    400034: //RootNode
+    2300000: Box129_pivot_MeshPart0
+    2300002: Box129_pivot_MeshPart1
+    2300004: Box129_pivot_MeshPart10
+    2300006: Box129_pivot_MeshPart11
+    2300008: Box129_pivot_MeshPart12
+    2300010: Box129_pivot_MeshPart13
+    2300012: Box129_pivot_MeshPart14
+    2300014: Box129_pivot_MeshPart15
+    2300016: Box129_pivot_MeshPart2
+    2300018: Box129_pivot_MeshPart3
+    2300020: Box129_pivot_MeshPart4
+    2300022: Box129_pivot_MeshPart5
+    2300024: Box129_pivot_MeshPart6
+    2300026: Box129_pivot_MeshPart7
+    2300028: Box129_pivot_MeshPart8
+    2300030: Box129_pivot_MeshPart9
+    3300000: Box129_pivot_MeshPart0
+    3300002: Box129_pivot_MeshPart1
+    3300004: Box129_pivot_MeshPart10
+    3300006: Box129_pivot_MeshPart11
+    3300008: Box129_pivot_MeshPart12
+    3300010: Box129_pivot_MeshPart13
+    3300012: Box129_pivot_MeshPart14
+    3300014: Box129_pivot_MeshPart15
+    3300016: Box129_pivot_MeshPart2
+    3300018: Box129_pivot_MeshPart3
+    3300020: Box129_pivot_MeshPart4
+    3300022: Box129_pivot_MeshPart5
+    3300024: Box129_pivot_MeshPart6
+    3300026: Box129_pivot_MeshPart7
+    3300028: Box129_pivot_MeshPart8
+    3300030: Box129_pivot_MeshPart9
+    4300000: Box129_pivot_MeshPart0
+    4300002: Box129_pivot_MeshPart1
+    4300004: Box129_pivot_MeshPart2
+    4300006: Box129_pivot_MeshPart3
+    4300008: Box129_pivot_MeshPart4
+    4300010: Box129_pivot_MeshPart5
+    4300012: Box129_pivot_MeshPart6
+    4300014: Box129_pivot_MeshPart7
+    4300016: Box129_pivot_MeshPart8
+    4300018: Box129_pivot_MeshPart9
+    4300020: Box129_pivot_MeshPart10
+    4300022: Box129_pivot_MeshPart11
+    4300024: Box129_pivot_MeshPart12
+    4300026: Box129_pivot_MeshPart13
+    4300028: Box129_pivot_MeshPart14
+    4300030: Box129_pivot_MeshPart15
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
